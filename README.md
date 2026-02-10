@@ -91,7 +91,6 @@ Indirect dependency. Required only in cloud build mode.
 
 ## 5. Bedrock AgentCore Runtime
 
-**Observed ARN:**
 **Purpose:**
 - Managed container execution environment
 - Hosts and runs the AI agent
